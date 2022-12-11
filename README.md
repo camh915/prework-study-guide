@@ -2,7 +2,7 @@
 
 ## Description
 
-This poject was created to serve as a study guide for student doing prework. It includes notes taken about HTML, CSS, Git, and JavaScript
+This project was created to serve as a study guide for students doing course prework. It includes notes taken about HTML, CSS, Git, and JavaScript
 
 
 ## Installation
